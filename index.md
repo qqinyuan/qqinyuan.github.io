@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# HTML5 基础
 
-You can use the [editor on GitHub](https://github.com/qqinyuan/qqinyuan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+> 1. HTML5 肯定不是多了一些标签就完事了
+> 2. HTML5 根酷炫没什么关系，更多的职责是功能，而不是外观
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------
 
-### Markdown
+## 1. 概要
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1.1. WEB技术阶段
 
-```markdown
-Syntax highlighted code block
+1. Web 1.0 内容为主，主要流行HTML和CSS
+2. Web 2.0 动态网页，流行AJAX/JavaScript/DOM
+3. HTML5 时代，WEB开发回归富客户端
 
-# Header 1
-## Header 2
-### Header 3
+### 1.2. 什么是HTML5
 
-- Bulleted
-- List
+- 是HTML的超集，不仅仅是HTML，更多的是JavaScript API和CSS的提升，
+- 构建 Web 应用程序整体解决方案
 
-1. Numbered
-2. List
+> API的概念就是我们编程时所依赖的东西的总称
 
-**Bold** and _Italic_ and `Code` text
+### 1.3. 什么是Web Application
 
-[Link](url) and ![Image](src)
-```
+- HTML5 前身，由WHATWG组织提出
+- 推出的目的主要是提高Web应用程序的功能
+- 2007年提交到W3C组织，成了现在我们看到的HTML5
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 1.4. HTML5应用场景
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qqinyuan/qqinyuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 极具表现力的网页
+  - 案例非常多
+- 网页应用程序
+  - PC端：iCloud、百度脑图、Office 365···
+  - APP端：淘宝、京东、美团···
+  - WeChat端：淘宝、京东、美团···
+- 混合式本地应用
+  - PC端：网易云音乐、有道词典···
+  - APP端：淘宝、京东、美团···
+- 简单的游戏
